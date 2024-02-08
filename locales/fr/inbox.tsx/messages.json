@@ -1,0 +1,24 @@
+{
+  "XWZUC7": {
+    "translation": "",
+    "message": "{numApples, plural, one {I have # apple} other {I have # apples}}",
+    "comments": [],
+    "origin": [
+      [
+        "pages/inbox.tsx",
+        27
+      ]
+    ]
+  },
+  "8bWV5m": {
+    "translation": "",
+    "message": "Message Inbox",
+    "comments": [],
+    "origin": [
+      [
+        "pages/inbox.tsx",
+        14
+      ]
+    ]
+  }
+}

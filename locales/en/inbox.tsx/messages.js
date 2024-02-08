@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"XWZUC7\":[[\"numApples\",\"plural\",{\"one\":[\"I have \",\"#\",\" apple\"],\"other\":[\"I have \",\"#\",\" apples\"]}]],\"8bWV5m\":\"Message Inbox\"}")};

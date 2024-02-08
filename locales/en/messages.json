@@ -1,0 +1,35 @@
+{
+  "XWZUC7": {
+    "translation": "{numApples, plural, one {I have # apple} other {I have # apples}}",
+    "message": "{numApples, plural, one {I have # apple} other {I have # apples}}",
+    "comments": [],
+    "origin": [
+      [
+        "pages/inbox.tsx",
+        27
+      ]
+    ]
+  },
+  "8bWV5m": {
+    "translation": "Message Inbox",
+    "message": "Message Inbox",
+    "comments": [],
+    "origin": [
+      [
+        "pages/inbox.tsx",
+        14
+      ]
+    ]
+  },
+  "RK3O7W": {
+    "translation": "This is a subpage",
+    "message": "This is a subpage",
+    "comments": [],
+    "origin": [
+      [
+        "pages/subPage/index.tsx",
+        12
+      ]
+    ]
+  }
+}
